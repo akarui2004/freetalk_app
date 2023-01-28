@@ -1,0 +1,11 @@
+{
+  "name": "freetalkapp",
+  "version": "1.0.0",
+  "description": "This is a FreeTalk App. It will have CRUD post and comments(create/update)",
+  "main": "index.js",
+  "author": "Minh Doan <minhdpc@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
